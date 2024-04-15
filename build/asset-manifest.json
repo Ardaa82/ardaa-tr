@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b1aa4f7.css",
+    "main.js": "/static/js/main.3bc02ad4.js",
+    "static/js/27.02fde410.chunk.js": "/static/js/27.02fde410.chunk.js",
+    "static/media/background.jpg": "/static/media/background.c28386c0c035002b4c01.jpg",
+    "static/media/user.jpg": "/static/media/user.2c998b6db65b40216dfc.jpg",
+    "static/media/ArdaBlog-Siyah.png": "/static/media/ArdaBlog-Siyah.82ea11c9f60cc6d18d6f.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8b1aa4f7.css",
+    "static/js/main.3bc02ad4.js"
+  ]
+}
